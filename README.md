@@ -15,3 +15,6 @@ Unorderd List
 * Learn Python
 * Learn JavaScript and NodeJS
 
+test list
+* Learn git
+* learn command
